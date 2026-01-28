@@ -2,7 +2,7 @@
 
 namespace vaja6 {
 
-  
+  // Enumerator za tip poklica
     public enum Poklic { Bojevnik, Carovnik, Menih, Tat, Lovec, Duhoven };
 
   public int x = 666;
